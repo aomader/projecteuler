@@ -10,6 +10,11 @@ import Euler.Problems.Euler004
 import Euler.Problems.Euler005
 import Euler.Problems.Euler006
 import Euler.Problems.Euler007
+import Euler.Problems.Euler008
+import Euler.Problems.Euler009
+import Euler.Problems.Euler010
+import Euler.Problems.Euler011
+import Euler.Problems.Euler012
 
 problems :: [() -> Int]
 problems = [ euler001
@@ -19,4 +24,9 @@ problems = [ euler001
            , euler005
            , euler006
            , euler007
+           , euler008
+           , euler009
+           , euler010
+           , euler011
+           , euler012
            ]

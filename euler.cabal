@@ -26,4 +26,5 @@ executable euler
     criterion ==0.6.*,
     transformers ==0.3.*,
     primes ==0.2.*,
-    vector ==0.9.*
+    vector ==0.9.*,
+    array ==0.4.*
