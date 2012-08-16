@@ -15,6 +15,7 @@ import Euler.Problems.Euler009
 import Euler.Problems.Euler010
 import Euler.Problems.Euler011
 import Euler.Problems.Euler012
+import Euler.Problems.Euler081
 
 problems :: [() -> Int]
 problems = [ euler001
@@ -29,4 +30,5 @@ problems = [ euler001
            , euler010
            , euler011
            , euler012
+           , euler081
            ]
